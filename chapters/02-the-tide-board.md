@@ -5,7 +5,7 @@ number: 2
 title: "The Tide Board"
 pov: Rowan Bell
 status: complete
-word-count: 1122
+word-count: 1117
 ---
 
 # Chapter 2: The Tide Board

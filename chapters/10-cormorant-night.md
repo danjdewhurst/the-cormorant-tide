@@ -5,7 +5,7 @@ number: 10
 title: "Cormorant Night"
 pov: Rowan Bell
 status: complete
-word-count: 984
+word-count: 980
 ---
 
 # Chapter 10: Cormorant Night

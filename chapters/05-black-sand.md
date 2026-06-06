@@ -5,7 +5,7 @@ number: 5
 title: "Black Sand"
 pov: Rowan Bell
 status: complete
-word-count: 1097
+word-count: 1093
 ---
 
 # Chapter 5: Black Sand

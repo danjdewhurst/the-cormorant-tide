@@ -5,7 +5,7 @@ number: 6
 title: "The Girl in the Boathouse"
 pov: Rowan Bell
 status: complete
-word-count: 959
+word-count: 952
 ---
 
 # Chapter 6: The Girl in the Boathouse

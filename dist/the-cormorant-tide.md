@@ -4,8 +4,6 @@
 
 # Chapter 1: The Body at St Osyth's Eye
 
-# Chapter 1: The Body at St Osyth's Eye
-
 The sea gave Adrian Rusk back at dawn.
 
 It did so without ceremony, withdrawing from the causeway stone by stone until the first constable on scene could see the black shape lying between the third and fourth marker posts. Above him the cormorants stood on the ruined roof of St Osyth's Eye, wings opened like undertakers' coats, drying themselves in the cold light.
@@ -115,8 +113,6 @@ Kit said, "Accident until proven otherwise?"
 Rowan watched one of the cormorants lift from the island roof and skim low over the causeway. It passed over Adrian Rusk without turning its head.
 
 "No," she said. "The other way round."
-
-# Chapter 2: The Tide Board
 
 # Chapter 2: The Tide Board
 
@@ -264,8 +260,6 @@ Some murders shouted. This one had adjusted a number and let the sea speak.
 
 # Chapter 3: Archive Dust
 
-# Chapter 3: Archive Dust
-
 Pelham Hard Museum had a smugglers' lantern in the front window and a handwritten sign apologising for irregular opening hours. Rowan had always thought both were honest advertising.
 
 Inside, the ground floor was arranged for school parties and wet Tuesdays: model trawlers in glass cases, a stuffed gull with one furious yellow eye, sepia photographs of men in ganseys, and a display about the Mercy Gale set under a lifeboat-orange board. Christopher Sparke's portrait occupied the centre. He stood in evening dress at a fundraising dinner, one hand on a silver cup, handsome in the smooth way of men used to being thanked.
@@ -397,8 +391,6 @@ He watched Lily run.
 Then he looked up at the museum window and saw Rowan looking back.
 
 Theo smiled as if caught doing something charming. It was a good smile, expensive and practised. It did not reach his eyes.
-
-# Chapter 4: The Mercy Gale
 
 # Chapter 4: The Mercy Gale
 
@@ -564,8 +556,6 @@ Outside, the evening tide began to turn. The harbour ropes tightened one by one,
 
 # Chapter 5: Black Sand
 
-# Chapter 5: Black Sand
-
 The old sail lofts crouched at the eastern end of the harbour, three long buildings with tarred boards, patched slate, and warning notices fixed to every door. In summer, visitors photographed them as picturesque decay. In winter, with rain coming sideways across the yard, they looked like what they were: rot with a view.
 
 Theo Sparke had printed them differently. His planning boards showed warm brick, brass lamps, balconies, potted olives, and a woman in white linen holding coffee where generations of men had once cursed into their sleeves while mending canvas. SPARKE HARBOUR QUARTER, the largest board read. HISTORY, REIMAGINED.
@@ -715,8 +705,6 @@ The killer had known three things: that Adrian had proof, that he could be lured
 Outside the council-room windows, gulls dipped and rose in the wind over Pelham Hard. Rowan watched them for a moment. Her father used to say gulls never wasted effort. They let the weather do the work.
 
 So had Adrian's killer.
-
-# Chapter 6: The Girl in the Boathouse
 
 # Chapter 6: The Girl in the Boathouse
 
@@ -874,8 +862,6 @@ Rowan photographed the page, then stood in the quiet archive listening to the ol
 
 # Chapter 7: Low Water
 
-# Chapter 7: Low Water
-
 Low water came at 14:06, and with it the island revealed itself reluctantly.
 
 The causeway emerged in patches: first the crown of the stones, then the weed-slick sides, then the channels between them where water hurried seaward in brown glass ribbons. Uniform kept the public back at the beach. A few residents gathered anyway, hoods up, pretending not to be watching a murder inquiry with the appetite of theatre.
@@ -997,8 +983,6 @@ For the first time since they had met, Eleanor Sparke forgot to arrange her face
 Only for a second.
 
 It was enough.
-
-# Chapter 8: The Net Loft
 
 # Chapter 8: The Net Loft
 
@@ -1146,8 +1130,6 @@ Rowan looked across the harbour at Sparke House on the hill, its windows lit abo
 
 # Chapter 9: The False Light
 
-# Chapter 9: The False Light
-
 Eleanor Sparke received the warrant at half past eight in the morning wearing pearls, lipstick, and an expression of courteous injury.
 
 Sparke House stood above the town behind flint walls and a garden clipped into obedience. From its terrace, Pelham Hard arranged itself beautifully below: harbour, church, sail lofts, causeway, island. It was the view printed on postcards and planning brochures, the view that made neglect look like potential.
@@ -1273,8 +1255,6 @@ Rowan looked at Kit.
 "You trust her?"
 
 Rowan folded the photocopy and placed it in an evidence sleeve. "On a causeway at night, I trust the harbourmaster more than the table."
-
-# Chapter 10: Cormorant Night
 
 # Chapter 10: Cormorant Night
 
@@ -1411,8 +1391,6 @@ Mara joined them, wet to the knee and furious. "Next time you want to use my cau
 Rowan looked at her old friend in the harbour light. "Understood."
 
 The tide moved over the false number on the beach board's lower edge, black and shining. By morning, the causeway would look innocent again. That was the trick of tides. They erased the scene without altering what had happened.
-
-# Chapter 11: The Matriarch
 
 # Chapter 11: The Matriarch
 
@@ -1559,8 +1537,6 @@ At last Kit said, "She almost made it sound reasonable."
 Rowan looked towards the harbour, where the tide board was being corrected under uniform supervision.
 
 "Reading numbers."
-
-# Chapter 12: After the Tide
 
 # Chapter 12: After the Tide
 
