@@ -5,6 +5,7 @@ number: 7
 title: "Low Water"
 pov: Rowan Bell
 status: complete
+word-count: 977
 ---
 
 # Chapter 7: Low Water

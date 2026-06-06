@@ -5,6 +5,7 @@ number: 1
 title: "The Body at St Osyth's Eye"
 pov: Rowan Bell
 status: complete
+word-count: 1164
 ---
 
 # Chapter 1: The Body at St Osyth's Eye

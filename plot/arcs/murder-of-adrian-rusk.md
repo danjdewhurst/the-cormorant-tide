@@ -2,6 +2,7 @@
 type: plot-arc
 story: the-cormorant-tide
 id: murder-of-adrian-rusk
+name: Murder of Adrian Rusk
 status: complete
 ---
 

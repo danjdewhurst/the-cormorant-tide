@@ -5,6 +5,7 @@ number: 4
 title: "The Mercy Gale"
 pov: Rowan Bell
 status: complete
+word-count: 1061
 ---
 
 # Chapter 4: The Mercy Gale

@@ -5,6 +5,7 @@ number: 8
 title: "The Net Loft"
 pov: Rowan Bell
 status: complete
+word-count: 999
 ---
 
 # Chapter 8: The Net Loft

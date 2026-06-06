@@ -2,6 +2,7 @@
 type: plot-arc
 story: the-cormorant-tide
 id: mercy-gale-truth
+name: Mercy Gale Truth
 status: complete
 ---
 

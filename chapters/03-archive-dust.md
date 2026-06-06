@@ -5,6 +5,7 @@ number: 3
 title: "Archive Dust"
 pov: Rowan Bell
 status: complete
+word-count: 1014
 ---
 
 # Chapter 3: Archive Dust

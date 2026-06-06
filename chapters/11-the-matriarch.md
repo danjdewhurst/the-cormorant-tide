@@ -5,6 +5,7 @@ number: 11
 title: "The Matriarch"
 pov: Rowan Bell
 status: complete
+word-count: 1059
 ---
 
 # Chapter 11: The Matriarch

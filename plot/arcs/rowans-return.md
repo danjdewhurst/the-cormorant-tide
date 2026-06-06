@@ -2,6 +2,7 @@
 type: plot-arc
 story: the-cormorant-tide
 id: rowans-return
+name: Rowan's Return
 status: complete
 ---
 

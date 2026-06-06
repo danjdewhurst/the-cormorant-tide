@@ -5,6 +5,7 @@ number: 12
 title: "After the Tide"
 pov: Rowan Bell
 status: complete
+word-count: 977
 ---
 
 # Chapter 12: After the Tide

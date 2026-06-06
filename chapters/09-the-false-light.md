@@ -5,6 +5,7 @@ number: 9
 title: "The False Light"
 pov: Rowan Bell
 status: complete
+word-count: 1024
 ---
 
 # Chapter 9: The False Light
