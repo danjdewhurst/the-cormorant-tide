@@ -16,6 +16,8 @@ The manuscript is restrained, atmospheric, and clue-forward: a contemporary Engl
 
 ## Read The Book
 
+The built single-file manuscript is available at [`dist/the-cormorant-tide.md`](dist/the-cormorant-tide.md).
+
 The complete manuscript is in [`chapters/`](chapters/), with one Markdown file per chapter:
 
 1. [`The Body at St Osyth's Eye`](chapters/01-the-body-at-st-osyths-eye.md)
